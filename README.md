@@ -1,16 +1,38 @@
-## Hi there 👋
+# Hello, I'm omar aod
+<a href="https://linkedin.com"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-<!--
-**omaraod133/omaraod133** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am an aspiring cybersecurity professional focused on becoming a SOC Analyst. As a beginner, I am committed to learning and solving security challenges.
+## Objective
 
-Here are some ideas to get you started:
+I have developed a strong interest in cybersecurity and am eager to begin my career in this field. I aim to join a Security Operations Center (SOC) as a Tier 1 Analyst, where I can build my skills in monitoring, detecting, and responding to security threats.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills
+
+| Skill                                         | Associated Project         |
+|-----------------------------------------------|----------------------------|
+| SIEM Implementation and Log Analysis          | <a href="https://google.com">Detection Lab</a>|
+| Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|// i will add pecap file analysis
+
+## Tools
+### Network
+<div>
+    <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
+</div>
+
+### Endpoint
+<div>
+    <img src="https://img.shields.io/badge/-Microsoft_Defender_for_Endpoint-00A4EF?&style=for-the-badge&logo=Microsoft&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Velociraptor-4B275F?&style=for-the-badge&logo=Velociraptor&logoColor=white" />
+</div>
+
+### SIEM
+<div>
+    <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
+</div>
+
+## Courses & Training
+<div> <img src="https://img.shields.io/badge/-ISC2%20Certified%20in%20Cybersecurity%20(CC)-006400?&style=for-the-badge&logoColor=white" /> <img src="https://img.shields.io/badge/-Cisco%20Junior%20Cybersecurity%20Analyst-1BA0D7?&style=for-the-badge&logo=Cisco&logoColor=white" /> </div>
+
+## Projects
+- Detection Lab
+- SOC Automation Project
