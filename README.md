@@ -10,7 +10,7 @@ I have developed a strong interest in cybersecurity and am eager to begin my car
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| SIEM Implementation and Log Analysis          | <a href="https://google.com">Detection Lab</a>|
+| SIEM Implementation and Log Analysis          | <a href="https://github.com/omaraod133/BOTSv1_Splunk_Analysis">botsv1-threat-analysis</a>|
 | Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|// i will add pecap file analysis
 
 ## Tools
@@ -34,5 +34,5 @@ I have developed a strong interest in cybersecurity and am eager to begin my car
 <div> <img src="https://img.shields.io/badge/-ISC2%20Certified%20in%20Cybersecurity%20(CC)-006400?&style=for-the-badge&logoColor=white" /> <img src="https://img.shields.io/badge/-Cisco%20Junior%20Cybersecurity%20Analyst-1BA0D7?&style=for-the-badge&logo=Cisco&logoColor=white" /> </div>
 
 ## Projects
-- Detection Lab
+-  <a href="https://github.com/omaraod133/BOTSv1_Splunk_Analysis">botsv1-threat-analysis</a>
 - SOC Automation Project
