@@ -11,7 +11,7 @@ I have developed a strong interest in cybersecurity and am eager to begin my car
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
 | SIEM Implementation and Log Analysis          | <a href="https://github.com/omaraod133/BOTSv1_Splunk_Analysis">botsv1-threat-analysis</a>|
-| Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|// i will add pecap file analysis
+| Network Traffic Monitoring and Attack Detection | <a href="https://github.com/omaraod133/investigation-pecap-file">Detection Lab</a>|
 
 ## Tools
 ### Network
@@ -35,4 +35,4 @@ I have developed a strong interest in cybersecurity and am eager to begin my car
 
 ## Projects
 -  <a href="https://github.com/omaraod133/BOTSv1_Splunk_Analysis">botsv1-threat-analysis</a>
-- SOC Automation Project
+-  <a href="https://github.com/omaraod133/investigation-pecap-file">Network Traffic Monitoring and Attack Detection</a>
