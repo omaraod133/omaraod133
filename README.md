@@ -36,5 +36,5 @@ I have developed a strong interest in cybersecurity and am eager to begin my car
 ## Projects
 -  <a href="https://github.com/omaraod133/BOTSv1_Splunk_Analysis">botsv1-threat-analysis</a>
 -  <a href="https://github.com/omaraod133/investigation-pecap-file">Network Traffic Monitoring and Attack Detection</a>
--  <a href="[https://github.com/omaraod133/investigation-pecap-file](https://github.com/omaraod133/Phishing-Email-Analysis-Using-SOC-Techniques-TryHackMe-Write-Up-)">Phishing Email Analysis Using SOC Techniques TryHackMe Write Up)</a>
+-  <a href="https://github.com/omaraod133/Phishing-Email-Analysis-Using-SOC-Techniques-TryHackMe-Write-Up-">Phishing Email Analysis Using SOC Techniques TryHackMe Write Up)</a>
 
